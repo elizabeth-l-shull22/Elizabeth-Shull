@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "category": "Web",
+    "description": "Responsive multi-page portfolio with Bootstrap, JSON-driven project cards, filtering, and theme switching.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "JSON"
+    ]
+  },
+  {
+    "title": "Used Car Pricing & Resale Analysis",
+    "category": "Data",
+    "description": "Tableau dashboards exploring vehicle prices, mileage, age, and resale opportunities for a Midwest online dealership.",
+    "technologies": [
+      "Tableau",
+      "Data Visualization",
+      "Analytics"
+    ]
+  },
+  {
+    "title": "Nordstrom Cybersecurity & Resilience Strategy",
+    "category": "Business",
+    "description": "Academic group assessment of retail cybersecurity risks, critical functions, and strategic resilience recommendations.",
+    "technologies": [
+      "Cybersecurity",
+      "Risk Assessment",
+      "Business Strategy"
+    ]
+  },
+  {
+    "title": "Riverside Family Medical EMR Implementation",
+    "category": "Business",
+    "description": "Academic project plan for an electronic medical records implementation, including schedule, risks, vendor evaluation, and stakeholder roles.",
+    "technologies": [
+      "Project Management",
+      "Smartsheet",
+      "Excel",
+      "RACI"
+    ]
+  },
+  {
+    "title": "Bedlam Fourth-Down Decision Analysis",
+    "category": "Data",
+    "description": "Sports analytics case examining fourth-down decisions with statistical models and decision-support recommendations.",
+    "technologies": [
+      "Excel",
+      "Regression",
+      "Sports Analytics"
+    ]
+  },
+  {
+    "title": "Global Climate Events Analysis",
+    "category": "Data",
+    "description": "R-based exploration of disaster duration, casualties, and international aid patterns.",
+    "technologies": [
+      "R",
+      "Statistical Analysis",
+      "Data Visualization"
+    ]
+  }
+]
